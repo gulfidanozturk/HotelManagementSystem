@@ -4,4 +4,4 @@ The Student Management System project is a comprehensive system that manages all
 
 
 
-![](2.jpg)
+![](pythonproject.jpg)
